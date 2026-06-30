@@ -1,0 +1,15 @@
+.main{
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 3px;
+    position: relative;
+}
+.box{
+    height: 400px;
+    width: 400px;
+    background-color: aquamarine;
+    overflow: hidden;
+    position: absolute;
+    bottom: 405px;
+}

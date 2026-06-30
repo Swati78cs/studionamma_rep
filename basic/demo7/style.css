@@ -1,0 +1,25 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+body{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+}
+.main{
+  background-color: white;
+  height:200px;
+  width:250px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+}
+.btn{
+  border-style: none;
+  border-radius: 5%;
+  height:40px;
+  width:100px;
+}
